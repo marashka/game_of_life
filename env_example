@@ -1,0 +1,13 @@
+[GENERAL]
+SECRET_KEY=q&ghtx*c!d55nm%2wp7kpr+d5r&9p)lqc9%zzw@ns_s=_dt_sn
+DJANGO_SETTINGS_MODULE=game_of_life.settings
+DJANGO_ALLOWED_HOSTS=backend
+SERVER_NAME=127.0.0.1
+
+[DATABASE]
+SQL_ENGINE=django.db.backends.postgresql
+SQL_DATABASE=postgres
+SQL_USER=postgres
+POSTGRES_PASSWORD=postgres_12121
+SQL_HOST=db
+SQL_PORT=5432
